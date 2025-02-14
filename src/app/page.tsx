@@ -19,7 +19,7 @@ export default function Home() {
     <div className="min-h-screen bg-gray-200 flex flex-col items-center justify-center">
       <header className="bg-blue-500 w-full p-8 text-white flex justify-center">
         <div>
-          <h1 className="text-4xl font-sans font-semibold">Welcome To Hotel Hill</h1>
+          <h1 className="text-4xl font-sans font-semibold">Welcome To Shrey</h1>
         </div>
 
       </header>
