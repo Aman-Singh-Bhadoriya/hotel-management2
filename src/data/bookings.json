@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "name": "SachinSingh",
+    "mobile": "07621841039",
+    "email": "bpccsaman19@gmail.com",
+    "rooms": [
+      null,
+      null,
+      null
+    ],
+    "totalTravelTime": null,
+    "date": "2025-02-13T11:34:28.459Z"
+  },
+  {
+    "id": 2,
+    "name": "SachinSingh",
+    "mobile": "07621841038",
+    "email": "bpccsaman19@gmail.com",
+    "rooms": [
+      null,
+      null
+    ],
+    "totalTravelTime": null,
+    "date": "2025-02-13T11:35:47.038Z"
+  },
+  {
+    "id": 3,
+    "name": "SachinSingh",
+    "mobile": "07621841039",
+    "email": "bpccsaman19@gmail.com",
+    "rooms": [
+      102,
+      103,
+      104
+    ],
+    "totalTravelTime": 2,
+    "date": "2025-02-13T11:40:07.682Z"
+  },
+  {
+    "id": 4,
+    "name": "Aman Singh",
+    "mobile": "07621841039",
+    "email": "bpccsaman19@gmail.com",
+    "rooms": [
+      101,
+      105,
+      106,
+      107,
+      108
+    ],
+    "totalTravelTime": 4,
+    "date": "2025-02-13T11:47:37.814Z"
+  },
+  {
+    "id": 5,
+    "name": "SachinSingh",
+    "mobile": "07621841039",
+    "email": "bpccsaman19@gmail.com",
+    "rooms": [
+      109,
+      1010,
+      201
+    ],
+    "totalTravelTime": 903,
+    "date": "2025-02-13T11:55:37.800Z"
+  },
+  {
+    "id": 6,
+    "name": "SachinSingh",
+    "mobile": "07621841039",
+    "email": "bpccsaman19@gmail.com",
+    "rooms": [
+      202,
+      203,
+      204
+    ],
+    "totalTravelTime": 2,
+    "date": "2025-02-13T12:08:04.841Z"
+  },
+  {
+    "id": 7,
+    "name": "Rohit",
+    "mobile": "07621841039",
+    "email": "bpccsaman19@gmail.com",
+    "rooms": [
+      205
+    ],
+    "totalTravelTime": 0,
+    "date": "2025-02-14T06:17:01.810Z"
+  },
+  {
+    "id": 8,
+    "name": "Rohit",
+    "mobile": "07621841039",
+    "email": "bpccsaman19@gmail.com",
+    "rooms": [
+      206,
+      207
+    ],
+    "totalTravelTime": 1,
+    "date": "2025-02-14T06:20:05.223Z"
+  },
+  {
+    "id": 9,
+    "name": "Rohit",
+    "mobile": "07621841039",
+    "email": "bpccsaman19@gmail.com",
+    "rooms": [
+      101,
+      102,
+      105,
+      106
+    ],
+    "totalTravelTime": 5,
+    "date": "2025-02-14T06:29:15.596Z"
+  },
+  {
+    "id": 10,
+    "name": "Aman Singh",
+    "mobile": "07621841039",
+    "email": "bpccsaman19@gmail.com",
+    "rooms": [
+      201,
+      202
+    ],
+    "totalTravelTime": 1,
+    "date": "2025-02-14T06:30:10.147Z"
+  },
+  {
+    "id": 11,
+    "name": "Rohit",
+    "mobile": "07621841039",
+    "email": "bpccsaman19@gmail.com",
+    "rooms": [
+      203
+    ],
+    "totalTravelTime": 0,
+    "date": "2025-02-14T06:47:25.674Z"
+  }
+]
